@@ -1,0 +1,25 @@
+{
+  "name": "meanstackcrud2",
+  "version": "1.0.0",
+  "description": "CRUD Application: NodeJS, Express, MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wall-x/MeanStackCrud2.git"
+  },
+  "author": "M.Wall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wall-x/MeanStackCrud2/issues"
+  },
+  "homepage": "https://github.com/wall-x/MeanStackCrud2#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mongoose": "^5.4.19"
+  }
+}
