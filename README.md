@@ -1,2 +1,2 @@
 # MeanStackCrud2
-CRUD Application: NodeJS, Express, MongoDB
+CRUD Application: NodeJS, Express, MongoDB, HandleBars
